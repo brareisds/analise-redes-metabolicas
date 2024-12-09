@@ -2,8 +2,8 @@
 
 ## Autoras
 
-Barbara Reis dos Santos
-Mayara Lessnau de Figueiredo Neves
+- Barbara Reis dos Santos
+- Mayara Lessnau de Figueiredo Neves
 
 ## Descrição do Repositório
 
